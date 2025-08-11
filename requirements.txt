@@ -1,0 +1,12 @@
+# Core hardware control
+adafruit-circuitpython-pca9685
+adafruit-blinka
+
+# For I2C bitbang (if used)
+adafruit-circuitpython-bitbangio
+
+# For general utilities
+numpy
+
+# GPIO
+RPi.GPIO
