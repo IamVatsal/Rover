@@ -1,5 +1,7 @@
 # Core hardware control
 adafruit-circuitpython-pca9685
+adafruit-circuitpython-tca9548a
+adafruit-circuitpython-servokit
 adafruit-blinka
 
 # For I2C bitbang (if used)
